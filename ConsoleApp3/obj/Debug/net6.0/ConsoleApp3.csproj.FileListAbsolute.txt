@@ -1,0 +1,15 @@
+D:\Документы\Гаврилова БББО-07-21\os1\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.exe
+D:\Документы\Гаврилова БББО-07-21\os1\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.deps.json
+D:\Документы\Гаврилова БББО-07-21\os1\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.runtimeconfig.json
+D:\Документы\Гаврилова БББО-07-21\os1\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.dll
+D:\Документы\Гаврилова БББО-07-21\os1\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.pdb
+D:\Документы\Гаврилова БББО-07-21\os1\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.AssemblyReference.cache
+D:\Документы\Гаврилова БББО-07-21\os1\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\Гаврилова БББО-07-21\os1\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfoInputs.cache
+D:\Документы\Гаврилова БББО-07-21\os1\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfo.cs
+D:\Документы\Гаврилова БББО-07-21\os1\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\Документы\Гаврилова БББО-07-21\os1\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.dll
+D:\Документы\Гаврилова БББО-07-21\os1\ConsoleApp3\obj\Debug\net6.0\refint\ConsoleApp3.dll
+D:\Документы\Гаврилова БББО-07-21\os1\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.pdb
+D:\Документы\Гаврилова БББО-07-21\os1\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.genruntimeconfig.cache
+D:\Документы\Гаврилова БББО-07-21\os1\ConsoleApp3\obj\Debug\net6.0\ref\ConsoleApp3.dll

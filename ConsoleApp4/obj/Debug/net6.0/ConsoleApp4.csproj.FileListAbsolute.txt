@@ -1,0 +1,15 @@
+D:\УЧЁБА\Домашнее Задания\тбд\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.exe
+D:\УЧЁБА\Домашнее Задания\тбд\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.deps.json
+D:\УЧЁБА\Домашнее Задания\тбд\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.runtimeconfig.json
+D:\УЧЁБА\Домашнее Задания\тбд\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.dll
+D:\УЧЁБА\Домашнее Задания\тбд\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.pdb
+D:\УЧЁБА\Домашнее Задания\тбд\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.AssemblyReference.cache
+D:\УЧЁБА\Домашнее Задания\тбд\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЁБА\Домашнее Задания\тбд\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.AssemblyInfoInputs.cache
+D:\УЧЁБА\Домашнее Задания\тбд\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.AssemblyInfo.cs
+D:\УЧЁБА\Домашнее Задания\тбд\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\УЧЁБА\Домашнее Задания\тбд\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.dll
+D:\УЧЁБА\Домашнее Задания\тбд\ConsoleApp4\obj\Debug\net6.0\refint\ConsoleApp4.dll
+D:\УЧЁБА\Домашнее Задания\тбд\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.pdb
+D:\УЧЁБА\Домашнее Задания\тбд\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.genruntimeconfig.cache
+D:\УЧЁБА\Домашнее Задания\тбд\ConsoleApp4\obj\Debug\net6.0\ref\ConsoleApp4.dll
